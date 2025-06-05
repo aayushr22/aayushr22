@@ -1,4 +1,5 @@
-<h2 align="center">Hi there 👋, I'm Aayush Raj</h2>
+### Hi there 👋, I'm Aayush Raj
+---
 
 ### 🧰 Tech Stack
 
@@ -41,5 +42,3 @@
 - 📚 Problems related to Data Structures & Algorithms  
 - 💻 Projects of JavaScript and Machine Learning  
 - 🤖 Exploring AI concepts and Machine Learning
-
----
