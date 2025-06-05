@@ -1,7 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aayush Raj</h1>
-<h3 align="center">🚀 Front-End Developer | 🤖 Machine Learning Enthusiast | 🧠 Lifelong Learner</h3>
-
----
+<h2 align="center">Hi there 👋, I'm Aayush Raj</h2>
 
 ### 🧰 Tech Stack
 
