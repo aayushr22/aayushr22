@@ -42,10 +42,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/aayush-raj-b86330246/)
 - 📧 Email: aayushr2201@gmail.com
 
----
-
-### ⚙️ Currently Working On
-
-- 📚 Problems related to Data Structures & Algorithms  
-- 💻 Projects with MERN stack and PostgreSQL  
-- 🛠 Exploring backend development & Docker
