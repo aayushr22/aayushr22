@@ -30,14 +30,11 @@
 #### Tools & Others
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook" />
 </p>
 
 ---
 
-### Contact Me
+### Contact
 
 -  [LinkedIn](https://www.linkedin.com/in/aayush-raj-b86330246/)
 -  Email: aayushr2201@gmail.com
